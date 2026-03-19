@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+# Visual Studio Private Files (Crucial to avoid Permission Denied)
+.vs/
+v17/
+*.suo
+*.user
+*.userosscache
+*.sln.docupdates
+
+# Git Copilot and Indexing files (To clear those 23+ files)
+CopilotIndices/
+FileContentIndex/
+
+# The mysterious "0" file and other numeric temp files
+0
+[0-9]
