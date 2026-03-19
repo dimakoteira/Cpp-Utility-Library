@@ -42,3 +42,10 @@ Encryption: Simple Caesar-cipher-like encryption and decryption using a numeric 
 Number to Text: A sophisticated method to convert large numeric values (up to billions) into their English text equivalent (e.g., 123 -> "one hundred twenty three").
 
 Generics: Template-based swap function to work with any data type.
+4. clsDate: A comprehensive library for handling dates (validation, comparison, and formatting)
+🚀 How to Include
+Since these are header-only libraries, you can simply include the files in your project:
+#include "clsString.h"
+#include "clsInputValidate.h"
+#include "clsUtil.h"
+#include "clsDate.h"
