@@ -42,7 +42,7 @@ Encryption: Simple Caesar-cipher-like encryption and decryption using a numeric 
 Number to Text: A sophisticated method to convert large numeric values (up to billions) into their English text equivalent (e.g., 123 -> "one hundred twenty three").
 
 Generics: Template-based swap function to work with any data type.
-4. clsDate: A comprehensive library for handling dates (validation, comparison, and formatting)
+4. clsDate:The clsDate library is a comprehensive system designed to handle date and time operations with high precision. It goes beyond basic display features, acting as a complete computational engine for temporal logic in C++.
 🚀 How to Include
 Since these are header-only libraries, you can simply include the files in your project:
 #include "clsString.h"
